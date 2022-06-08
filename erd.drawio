@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T05:58:37.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="O1Yq_jmB6jXXqCWjKRHq" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T06:00:22.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="0PNV_OZYHTlxc98a1mW0" version="19.0.2" type="github">
   <diagram id="Nj5eHDuCgA3VrANhKelG" name="Page-1">
     <mxGraphModel dx="880" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
         <mxCell id="z0WuMO5tnnBy8imYpAFS-37" value="/login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0WuMO5tnnBy8imYpAFS-40" value="/findPassword" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z0WuMO5tnnBy8imYpAFS-40" value="/find-password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1834" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0WuMO5tnnBy8imYpAFS-42" value="/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
